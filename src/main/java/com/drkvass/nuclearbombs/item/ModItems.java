@@ -1,6 +1,7 @@
 package com.drkvass.nuclearbombs.item;
 
 import com.drkvass.nuclearbombs.NuclearBombs;
+import com.drkvass.nuclearbombs.item.custom.EightBallItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -21,6 +22,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.NUCLEARBOMBS_TAB)));
     public static final RegistryObject<Item> RAW_ZIRCON = ITEMS.register("raw_zircon",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.NUCLEARBOMBS_TAB)));
+    public static final RegistryObject<Item> EIGHT_BALL = ITEMS.register("eight_ball",
+            () -> new EightBallItem(new Item.Properties().tab(ModCreativeModeTab.NUCLEARBOMBS_TAB).stacksTo(1)));
 
 
 
