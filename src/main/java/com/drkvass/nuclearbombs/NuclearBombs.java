@@ -1,5 +1,7 @@
 package com.drkvass.nuclearbombs;
 
+import com.drkvass.nuclearbombs.block.ModBlocks;
+import com.drkvass.nuclearbombs.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -17,9 +19,12 @@ import org.slf4j.Logger;
 public class NuclearBombs {
     public static final String MOD_ID = "nuclearbombs";
     private static final Logger LOGGER = LogUtils.getLogger();
-    //test
+
     public NuclearBombs() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

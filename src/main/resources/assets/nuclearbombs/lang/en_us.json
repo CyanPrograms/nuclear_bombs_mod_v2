@@ -1,0 +1,11 @@
+{
+  "item.nuclearbombs.zircon": "Zircon",
+  "item.nuclearbombs.raw_zircon": "Raw Zircon",
+
+  "block.nuclearbombs.zircon_block": "Zircon Block",
+  "block.nuclearbombs.zircon_ore": "Zircon Ore",
+  "block.nuclearbombs.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
+  "itemGroup.nuclearbombstab": "Nuclear Bombs"
+
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nuclearbombs:zircon_block"
+    }
+  ],
+  "result": {
+    "item": "nuclearbombs:zircon",
+    "count": 9
+  }
+}

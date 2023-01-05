@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "nuclearbombs:zircon_ore",
+    "nuclearbombs:zircon_block",
+    "nuclearbombs:deepslate_zircon_ore"
+  ]
+}
