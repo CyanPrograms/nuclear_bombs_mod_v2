@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "cookingtime": 16000,
+ "experience": 0.7,
+ "group": "zircon",
+ "ingredient": {
+  "item": "nuclearbombs:raw_uranium"
+ },
+ "result": "nuclearbombs:uranium"
+}

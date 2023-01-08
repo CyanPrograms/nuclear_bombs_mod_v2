@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "CBC",
+    "GGG"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "minecraft:water_bucket"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "nuclearbombs:hydrogen_peroxide",
+    "count": 3
+  }
+}

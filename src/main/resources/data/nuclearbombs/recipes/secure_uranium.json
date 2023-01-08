@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#AA",
+    "AAE"
+  ],
+  "key": {
+    "#": {
+      "item": "nuclearbombs:uranium"
+    },
+    "A": {
+      "item": "nuclearbombs:lead"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "item": "nuclearbombs:secure_uranium"
+  }
+}

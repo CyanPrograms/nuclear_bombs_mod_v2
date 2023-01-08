@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#W#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "W": {
+      "Item": "nuclearbombs:weapon_core"
+    }
+  },
+  "result": {
+    "item": "nuclearbombs:nuclear_bomb"
+  }
+}

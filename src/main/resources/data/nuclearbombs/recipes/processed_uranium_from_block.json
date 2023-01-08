@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nuclearbombs:processed_uranium_block"
+    }
+  ],
+  "result": {
+    "item": "nuclearbombs:processed_uranium",
+    "count": 9
+  }
+}

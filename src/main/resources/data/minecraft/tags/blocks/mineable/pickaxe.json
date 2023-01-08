@@ -1,8 +1,11 @@
 {
   "replace": false,
   "values": [
-    "nuclearbombs:zircon_ore",
-    "nuclearbombs:zircon_block",
-    "nuclearbombs:deepslate_zircon_ore"
+    "nuclearbombs:uranium_ore",
+    "nuclearbombs:uranium_block",
+    "nuclearbombs:deepslate_uranium_ore",
+    "nuclearbombs:lead_ore",
+    "nuclearbombs:lead_block",
+    "nuclearbombs:deepslate_lead_ore"
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DCD",
+    "CSC",
+    "DCD"
+  ],
+  "key": {
+    "S": {
+      "item": "nuclearbombs:scum"
+    },
+    "C": {
+      "item": "nuclearbombs:netherite_cage"
+    },
+    "D": {
+      "item": "nuclearbombs:detonator"
+    }
+  },
+  "result": {
+    "item": "nuclearbombs:weapon_core"
+  }
+}

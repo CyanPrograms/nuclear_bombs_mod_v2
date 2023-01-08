@@ -3,9 +3,27 @@
   "item.nuclearbombs.raw_uranium": "Raw Uranium",
   "item.nuclearbombs.eight_ball": "Eight Ball",
 
-  "block.nuclearbombs.zircon_block": "Secure Processed Uranium Block",
-  "block.nuclearbombs.zircon_ore": "Uranium Ore",
-  "block.nuclearbombs.deepslate_zircon_ore": "Deepslate Uranium Ore",
+  "item.nuclearbombs.secure_uranium": "Secure Uranium Ingot",
+  "item.nuclearbombs.refined_uranium": "Refined Uranium Ingot",
+  "item.nuclearbombs.processed_uranium": "Processed Uranium Ingot",
+  "item.nuclearbombs.netherite_cage": "Netherite Cage",
+  "item.nuclearbombs.scum": "Sub-Critical Uranium Mass",
+  "item.nuclearbombs.detonator": "Detonator",
+  "item.nuclearbombs.weapon_core": "Weapon Core",
+  "item.nuclearbombs.hydrogen_peroxide": "Hydrogen Peroxide",
+
+
+  "item.nuclearbombs.lead": "Lead Ingot",
+  "item.nuclearbombs.raw_lead": "Raw Lead",
+
+  "block.nuclearbombs.uranium_block": "Secure Uranium Block",
+  "block.nuclearbombs.uranium_ore": "Uranium Ore",
+  "block.nuclearbombs.deepslate_uranium_ore": "Deepslate Uranium Ore",
+  "block.nuclearbombs.lead_block": "Lead Block",
+  "block.nuclearbombs.lead_ore": "Lead Ore",
+  "block.nuclearbombs.deepslate_lead_ore": "Deepslate Lead Ore",
+  "block.nuclearbombs.processed_uranium_block": "Processed Uranium Block",
+  "block.nuclearbombs.nuclear_weapon": "Nuclear Weapon",
 
   "itemGroup.nuclearbombstab": "Nuclear Bombs"
 

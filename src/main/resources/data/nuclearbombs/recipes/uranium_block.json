@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "nuclearbombs:secure_uranium"
+    }
+  },
+  "result": {
+    "item": "nuclearbombs:uranium_block"
+  }
+}

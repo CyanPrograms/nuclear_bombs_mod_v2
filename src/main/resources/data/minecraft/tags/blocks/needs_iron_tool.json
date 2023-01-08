@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-
+    "nuclearbombs:lead_ore",
+    "nuclearbombs:lead_block",
+    "nuclearbombs:deepslate_lead_ore"
   ]
 }

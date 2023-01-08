@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#A#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "nuclearbombs:hydrogen_peroxide"
+    },
+    "A": {
+      "item": "nuclearbombs:secure_uranium"
+    }
+  },
+  "result": {
+    "item": "nuclearbombs:refined_uranium"
+  }
+}
