@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab NUCLEARBOMBS_TAB = new CreativeModeTab("nuclearbombstab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.ZIRCON.get());
+            return new ItemStack(ModItems.URANIUM.get());
         }
     };
 }

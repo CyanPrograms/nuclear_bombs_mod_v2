@@ -1,11 +1,11 @@
 {
-  "item.nuclearbombs.zircon": "Zircon",
-  "item.nuclearbombs.raw_zircon": "Raw Zircon",
+  "item.nuclearbombs.uranium": "Raw Uranium Ingots ",
+  "item.nuclearbombs.raw_uranium": "Raw Uranium",
   "item.nuclearbombs.eight_ball": "Eight Ball",
 
-  "block.nuclearbombs.zircon_block": "Zircon Block",
-  "block.nuclearbombs.zircon_ore": "Zircon Ore",
-  "block.nuclearbombs.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.nuclearbombs.zircon_block": "Secure Processed Uranium Block",
+  "block.nuclearbombs.zircon_ore": "Uranium Ore",
+  "block.nuclearbombs.deepslate_zircon_ore": "Deepslate Uranium Ore",
 
   "itemGroup.nuclearbombstab": "Nuclear Bombs"
 

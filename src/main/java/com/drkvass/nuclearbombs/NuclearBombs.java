@@ -47,3 +47,17 @@ public class NuclearBombs {
         }
     }
 }
+/*
+Raw Uranium
+Raw Uranium Ingot (smelting/blasting)
+Secure Raw Uranium Ingot (3 Uranium + 3 lead)
+Hydrogen Peroxide bottle ([water bottle + glowstown == thick potion] + redstone; BREWING)
+Secure Refined Uranium Ingot (1 SRU ingot + 8 H2O2)
+Secure Processed Uranium Ingot (SRefinedU ingot -> smelting 1 coal block)
+Secure Processed Uranium Block (9 SPU ingots)
+Netherite cage (9 Netherite blocks)
+Sub-critical Uranium Mass (9 SPU Blocks)
+Detonator (9 TNT)
+Weapon core ( 4 Netherite cage + 4 detonators + SCUM)
+Nuclear bomb ( 8 iron blocks + weapon core)
+*/

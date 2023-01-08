@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "nuclearbombs:item/zircon"
+    "layer0": "nuclearbombs:item/raw_uranium"
   }
 }
